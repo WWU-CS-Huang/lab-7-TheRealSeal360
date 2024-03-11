@@ -4,6 +4,7 @@
 package lab7;
 import java.io.File;
 import java.util.Scanner;
+import heap.Heap;
 
 public class Huffman {
 
